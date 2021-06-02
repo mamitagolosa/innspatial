@@ -108,7 +108,7 @@ traitlets==4.3.3
 twine==3.2.0
 typed-ast==1.4.0
 typing==3.7.4.1
-urllib3==1.25.9
+urllib3==1.26.5
 ushlex==0.99.1
 virtualenv==20.0.23
 virtualenv-clone==0.5.4
